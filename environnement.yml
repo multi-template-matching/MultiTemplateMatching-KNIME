@@ -14,8 +14,7 @@ dependencies:
   - IPython=7.1         # Notebook support
   - nbformat=4.4        # Notebook support
   - scipy=1.1           # Notebook support
-  - scikit-image
-  - pip:
-    - opencv-contrib-python
-    - pysimplegui
+  - scikit-image=0.14.2 # Local maxima detection
+  - opencv=3.4.2        # matchTemplate
+
 prefix: C:\Anaconda\envs\KNIME-TM
