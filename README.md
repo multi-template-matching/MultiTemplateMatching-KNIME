@@ -1,2 +1,3 @@
 # MultipleTemplateMatching-KNIME
-Implementation of object(s) detection with one or multiple templates in KNIME 
+Implementation of object(s) detection with one or multiple templates in KNIME.   
+Refer to the [wiki section](https://github.com/LauLauThom/MultipleTemplateMatching-KNIME/wiki) for installation, video tutorial...
